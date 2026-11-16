@@ -6,6 +6,7 @@ DevOps / Cloud Engineer. Linux, automation and cloud infrastructure.
 - ☸️ Kubernetes, Docker
 - 🔁 CI/CD: GitLab CI, GitHub Actions
 - 🐍 Python, Bash
+- Passionate developer :-)
 
 ### Contact
 
