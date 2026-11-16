@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @havirfilip
-- 👀 I’m interested in IT, especially in Cloud and DevOps technologies
-- 🌱 I’m currently learning AWS
-- 📫 How to reach me: through my email havirfilip@gmail.com
+<img align="right" width="180" src="assets/filip.png" alt="Filip Havíř">
 
-<!---
-havirfilip/havirfilip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Filip Havíř
+
+DevOps / Cloud Engineer. Linux, automation and cloud infrastructure since 2020.
+
+- ☁️ AWS (Certified Solutions Architect – Associate), Azure
+- ☸️ Kubernetes, Docker
+- 🔁 CI/CD: GitLab CI, GitHub Actions
+- 🐍 Python, Bash
+
+### Experience
+
+| Role | Years |
+|---|---|
+| DevOps Cloud Engineer | 2025 – |
+| Kubernetes Engineer | 2024 – 2025 |
+| DevOps Cloud Engineer | 2022 – 2024 |
+| DevOps Engineer | 2021 – 2022 |
+| Full Stack Developer | 2020 – 2021 |
+
+### Contact
+
+📫 [havirfilip@gmail.com](mailto:havirfilip@gmail.com) · [LinkedIn](https://cz.linkedin.com/in/filiphavir) · [filip-havir.netlify.app](https://filip-havir.netlify.app)
