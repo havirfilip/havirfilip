@@ -1,9 +1,5 @@
 # Filip Havíř
 
-<p align="center">
-  <img src="assets/albatros-banner.jpg" width="600" alt="ČSD 498.001 Albatros steam locomotive">
-</p>
-
 DevOps / Cloud Engineer. Linux, automation and cloud infrastructure.
 
 - ☁️ AWS (Certified Solutions Architect – Associate), Azure
@@ -15,3 +11,7 @@ DevOps / Cloud Engineer. Linux, automation and cloud infrastructure.
 ### Contact
 
 📫 [havirfilip@gmail.com](mailto:havirfilip@gmail.com) · [LinkedIn](https://cz.linkedin.com/in/filiphavir) · [filip-havir.netlify.app](https://filip-havir.netlify.app)
+
+<p align="center">
+  <img src="assets/albatros-banner.jpg" width="600" alt="ČSD 498.001 Albatros steam locomotive">
+</p>
