@@ -1,5 +1,11 @@
 # Filip Havíř
 
+<p align="center">
+  <img src="assets/albatros-498-001.jpg" width="100%" alt="ČSD 498.001 Albatros steam locomotive">
+  <br>
+  <sub>ČSD 498.001 „Albatros“ · photo: <a href="https://www.popluznidvur.cz">popluznidvur.cz</a></sub>
+</p>
+
 DevOps / Cloud Engineer. Linux, automation and cloud infrastructure.
 
 - ☁️ AWS (Certified Solutions Architect – Associate), Azure
